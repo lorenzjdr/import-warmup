@@ -1,4 +1,5 @@
 import portfolio.data
+import portfolio.assets
 
 if __name__ == "__main__":
     my_portfolio = portfolio.data.create_portfolio("Retirement")
